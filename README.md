@@ -54,6 +54,6 @@ The dashboard reveals that toss decisions significantly impact match outcomes, w
 ## 👩‍💻 Author & Contact
 
 **Pratiksha Subhash Bhosale **
-- 📧 Email: pratikshabhosale1501.email@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- 📧 Email: pratikshabhosale1501@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/profile](https://www.linkedin.com/in/pratiksha-bhosale-6b433837b/)  
   
