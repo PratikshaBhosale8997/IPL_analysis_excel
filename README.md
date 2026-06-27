@@ -47,7 +47,7 @@ The dashboard reveals that toss decisions significantly impact match outcomes, w
 
 ## 📸 Screenshot
 
-![IPL Dashboard Preview](screenshot.png)
+![IPL Dashboard Preview]([screenshot.png](https://github.com/PratikshaBhosale8997/IPL_analysis_excel/blob/main/Snapshot_of_IPL_Analysis_dashboard_Excel.png))
 
 ---
 
